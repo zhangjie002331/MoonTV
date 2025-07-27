@@ -84,6 +84,74 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    }，
+      "hniu": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    }，
+    "18+": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "大人资源"
+    }，
+    "laosepi": {
+      "api": "https://apilsbzy.com/api.php/provide/vod",
+      "name": "老色逼"
+    }，
+    "baiwabziyuan": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源"
+    }，
+    "taohua": {
+      "api": "https://thzy1.me/api.php/provide/vod",
+      "name": "桃花"
+    }，
+    "dadi": {
+      "api": "https://dadiapi.com/api.php/provide/vod",
+      "name": "大地"
+    }，
+    "tantan": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "探探"
+    }，
+    "naixiang": {
+      "api": "https://naixxzy.com/api.php/provide/vod",
+      "name": "奶香"
+    }，
+    "lajiao": {
+      "api": "https://apilj.com/api.php/provide/vod",
+      "name": "辣椒"
+    }，
+    "semao": {
+      "api": "https://caiji.semaozy.net/inc/apijson_vod",
+      "name": "色猫"
+    }，
+    "didi": {
+      "api": "https://api.ddapi.cc/api.php/provide/vod",
+      "name": "滴滴"
+    }，
+    "shayu": {
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "name": "鲨鱼"
+    }，
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔"
+    }，
+    "juj": {
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod",
+      "name": "jun"
+    }，
+    "ckzy": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "ck"
+    }，
+    "fanhao": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "番号"
+    }，
+    "caoniu": {
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod",
+      "name": "草榴"
     }
   }
 }
